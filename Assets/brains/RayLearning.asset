@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RayLearning
   m_EditorClassIdentifier: 
   brainParameters:
-    vectorObservationSize: 14
+    vectorObservationSize: 22
     numStackedVectorObservations: 3
     vectorActionSize: 02000000
     cameraResolutions: []
@@ -21,5 +21,5 @@ MonoBehaviour:
     - 
     - 
     vectorActionSpaceType: 1
-  model: {fileID: 4264625279107119229, guid: 6b18e2e4aa5d734409ec8c2e7b33731e, type: 3}
+  model: {fileID: 0}
   inferenceDevice: 0
